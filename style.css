@@ -36,8 +36,7 @@
 /* banner */
 
 #banner-container{
-	background-color: #d28411;
-	/*background-image: url("images/banner.png");*/
+	background-image: url("images/banner.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white !important;
@@ -73,8 +72,6 @@
 	padding-left: 20px;
 	background-color: rgba(214, 203, 203, 0.4);
 }
-
-
 
 
 /* team */
@@ -184,11 +181,6 @@ padding-top: 10px;
 #footer-col{
 	padding-left: 20px;
 }
-
-
-
-
-
 
 
 
